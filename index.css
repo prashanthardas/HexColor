@@ -18,6 +18,7 @@
   display: flex;
   position: absolute;
   opacity: 60%;
+  cursor: pointer;
 }
 #btn2 {
   width: 70px;
@@ -27,6 +28,7 @@
   border: 1px solid blue;
   position: absolute;
   opacity: 20%;
+  cursor: pointer;
 }
 #btn3 {
   width: 40px;
@@ -34,4 +36,5 @@
   background-image: linear-gradient(to right, pink, blue, black, red, green);
   border-radius: 50px;
   border: 1px solid blue;
+  cursor: pointer;
 }
